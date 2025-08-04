@@ -26,7 +26,7 @@ LoRA_Project/
 
 1. **Clone the repo:**
     ```
-    git clone https://github.com/Keshavaa/LoRA_Project.git
+    git clone https://github.com/Keshavaaa/LoRA_Project.git
     cd LoRA_Project
     ```
 
