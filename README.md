@@ -26,7 +26,7 @@ LoRA_Project/
 
 1. **Clone the repo:**
     ```
-    git clone https://github.com/yourusername/LoRA_Project.git
+    git clone https://github.com/Keshavaa/LoRA_Project.git
     cd LoRA_Project
     ```
 
@@ -37,7 +37,7 @@ LoRA_Project/
     ```
 
 3. **Install dependencies:**
-    ```bash
+    ```
     pip install -r requirements.txt
     ```
     - *Colab users*: You can also copy the pip install lines directly into your Colab code cell.
